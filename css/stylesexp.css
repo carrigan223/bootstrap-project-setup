@@ -50,3 +50,42 @@ header h2 {
     border: solid #5637DD;
 }
 
+.site-footer2 {
+    background-image: linear-gradient(#5637DD, #901CAD);
+    padding : 20px 0;
+}
+
+.footer-link {
+    font-family: "Open Sans", sans-serif;
+    color: #DDD;
+}
+
+.footer-contact {
+    color: #DDD;
+}
+
+.site-footer2 a.footer-contact:hover  {
+    color: aqua;
+}
+
+.site-footer2 a.footer-link:hover {
+    color: aqua;
+}
+
+.footer-text {
+    font-family: "lobster", cursive;
+    color: #DDD;
+}
+
+.card-header-acc {
+   
+    font-family: "lobster", cursive;
+}
+
+.reserve-header {
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+}
+
+.data-term {
+    font-style: italic;
+}
